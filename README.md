@@ -3,7 +3,7 @@ I'm from Mexico, I have a degree as computer systems engineering and I'm looking
 - ❤ I love work with Android and Web Development.
 - 💻 I'm learning Angular and Kotlin.
 
-## 👾 Technologies that I love to work with.
+## 👾 Technologies that I love to work with
 - Java
 - Android
 - PHP
