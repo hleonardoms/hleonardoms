@@ -9,9 +9,6 @@ I'm from Mexico, I have a degree as computer systems engineering and I'm looking
 - PHP
 - JavaScript
 - VueJS
-
-<figure><embed src="https://wakatime.com/share/@hleonardoms/e3967a6b-fae3-4fd5-a249-3b76b78d8df8.svg"></embed></figure>
-
 <!---
 hleonardoms/hleonardoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
