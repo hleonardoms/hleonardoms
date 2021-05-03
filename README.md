@@ -8,7 +8,7 @@ I'm from Mexico, I have a degree as computer systems engineering and I'm looking
 - Android
 - PHP
 - JavaScript
-- VueJS
+- Vue.js
 <!---
 hleonardoms/hleonardoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
