@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leonardo Martínez
 
-## 👾 I love to work with
+## 👾 Working with
 - Java
 - Android
 - PHP
