@@ -4,13 +4,6 @@ Hi 👋 My name is Leonardo Segura
 Web & Mobile developer
 ----------------------
 
-I've been working with technologies like PHP and JavaScript since 5 years ago, but now I'm very focussed on Vue.js and Android.
-
-* 🌍  I'm based in Veracruz, México
-* ✉️  You can contact me at [hleonardoms@gmail.com](mailto:hleonardoms@gmail.com)
-* 🧠  I'm learning Laravel
-* ⚡  I hate JS 🙃
-
 ### Skills
 
 <p align="left">
